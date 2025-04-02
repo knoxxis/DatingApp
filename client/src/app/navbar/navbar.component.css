@@ -1,0 +1,7 @@
+a.nav-link, li.dropdown-item {
+    cursor: pointer;
+}
+
+button {
+    white-space: nowrap;
+}
